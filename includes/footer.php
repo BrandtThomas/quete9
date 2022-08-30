@@ -1,0 +1,1 @@
+<footer class="text-center"><p class="text-light">Thomas Brandt &copy</p></footer>

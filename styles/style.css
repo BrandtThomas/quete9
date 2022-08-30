@@ -1,0 +1,46 @@
+.bgJumpbotron{
+    background-color: black;
+}
+
+.jump{
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    background-color: white;
+}
+
+.jump1{
+    background-image: url('../img/152.png');
+}
+
+.jump2{
+    background-image: url('../img/153.png');
+}
+
+.jump3{
+    background-image: url('../img/154.png');
+}
+
+.jump4{
+    background-image: url('../img/155.png');
+}
+
+.jump5{
+    background-image: url('../img/156.png');
+}
+
+.jump6{
+    background-image: url('../img/157.png');
+}
+
+.jump7{
+    background-image: url('../img/158.png');
+}
+
+.jump8{
+    background-image: url('../img/159.png');
+}
+
+.jump9{
+    background-image: url('../img/160.png');
+}
